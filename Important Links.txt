@@ -1,6 +1,8 @@
 
 Feature Selection:
 
+https://www.datacamp.com/community/tutorials/feature-selection-python
+
 https://machinelearningmastery.com/feature-selection-machine-learning-python/
 
 https://machinelearningmastery.com/feature-selection-in-python-with-scikit-learn/
